@@ -1,6 +1,2 @@
-![header](https://github.com/cltrdd/cltrdd/blob/main/intro.png)    
-## Hey, I'm clt. A 17 year old Full stack web developer from London, UK. I currently attend college enrolling in a cybersecurity level 3 course and i code in my free time. I don't really use github much.
+![Metrics](https://metrics.lecoq.io/bidded?template=classic&achievements=1&fortune=1&stock=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=5&fortune=false&stock=false&stock.symbol=RBLX&stock.duration=1d&stock.interval=5m&config.timezone=Europe%2FLondon)
  
-![Clt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cltrdd)
-
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=FF0000) ![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=Archlinux&logoColor=white&color=FF0000)
