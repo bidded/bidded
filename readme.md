@@ -1,2 +1,20 @@
-![Metrics](https://metrics.lecoq.io/bidded?template=classic&achievements=1&fortune=1&stock=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=5&fortune=false&stock=false&stock.symbol=RBLX&stock.duration=1d&stock.interval=5m&config.timezone=Europe%2FLondon)
- 
+<div align="center">
+<pre>
+                ..      s                                          
+          x .d88"      :8                                          
+           5888R      .88                                          
+      .    '888R     :888ooo    .                                  
+ .udR88N    888R   -*8888888    88bu.                         .o@8 
+<888'888k   888R     8888       %*8888eu.                 .o@8888% 
+9888 'Y"    888R     8888          ^%*8888eu          .o@8888%"    
+9888        888R     8888              "%8888        8888R"        
+9888        888R    .8888Lu=         .o8888R%    .   "*8888bu.     
+?8888u../  .888B .  ^%888*       .o8888R%"     .@8c     ^"*8888bu. 
+ "8888P'   ^*888%     'Y"       8888%"        '%888"        ^%*888 
+   "P'       "%                 %"              ^*              ^% 
+                                                                  
+--------------------------------------------------------------------
+
+<a href="https://clt.lol">site</a> - <a href="https://github.com/bidded/repositories">repositories</a>
+</pre>
+</div>
