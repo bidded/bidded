@@ -1,8 +1,5 @@
 <div align="center">
-    <h5>If i was any cooler id freeze to death.</h5>
-</div>
-<div align="center">
-    <img src="https://count.getloli.com/@rushiiMachine?name=rushiiMachine&theme=original-new&darkmode=auto"/>
+    <img src="https://count.getloli.com/@bidded?name=bidded&theme=original-new&darkmode=auto"/>
 </div>
 <sub>
     <p align="center">
