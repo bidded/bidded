@@ -4,7 +4,7 @@
 <sub>
     <p align="center">
         <i>
-            Visitors since 2025-01-01
+            Visitors since 4th July 2025
         </i>
     </p>
 </sub>
