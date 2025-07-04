@@ -1,6 +1,6 @@
-If i was any cooler id freeze to death.
-
-
+<div align="center">
+    <h1>If i was any cooler id freeze to death.</h1>
+</div>
 <div align="center">
     <img src="https://count.getloli.com/@rushiiMachine?name=rushiiMachine&theme=original-new&darkmode=auto"/>
 </div>
